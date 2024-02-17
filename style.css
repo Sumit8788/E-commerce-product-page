@@ -148,8 +148,8 @@ hr{
     border: none;
 }
 .btn-border{
-  display: inline-block; /* Ensure the div only takes the necessary space */
-  padding: 1px; /* Adjust the padding to maintain the border around the button */
+  display: inline-block;
+  padding: 1px;
   margin: 10px 10px 10px 20px;
 }
 #check1,#check2,#check3,#check4{
